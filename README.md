@@ -16,7 +16,7 @@
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like playing Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+💬 &nbsp;Feel free to reach out to me. \
 ✉️ &nbsp;You can email me at vkumar.btech2022.bme@nitrr.ac.in. I'll try to respond as soon as possible! 
 
 ### 📫 &nbsp; How to reach me:
@@ -33,8 +33,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
  -----
