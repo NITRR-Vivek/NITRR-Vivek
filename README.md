@@ -2,8 +2,13 @@
 <p align="center">
 
 ![image](https://raw.githubusercontent.com/NITRR-Vivek/NITRR-Vivek/.github/images/study.jpeg)
-
 </p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=NITRR-Vivek&color=red)&nbsp;
+[![GitHub NITRR-Vivek](https://img.shields.io/github/followers/NITRR-Vivek?label=follow&style=social)](https://github.com/NITRR-Vivek)&nbsp;
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,7 +17,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at vkumar.btech2022.bme@nitrr.ac.in. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at vkumar.btech2022.bme@nitrr.ac.in. I'll try to respond as soon as possible! 
 
 ### 📫 &nbsp; How to reach me:
 
