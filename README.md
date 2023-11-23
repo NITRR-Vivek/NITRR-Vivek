@@ -1,5 +1,9 @@
 ### Hi there 👋
+<p align="center">
+ 
+![image](https://raw.githubusercontent.com/NITRR-Vivek/NITRR-Vivek/.github/images/study.jpeg)
 
+</p>
 <!--
 **NITRR-Vivek/NITRR-Vivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
