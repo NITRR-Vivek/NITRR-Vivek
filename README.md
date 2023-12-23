@@ -14,7 +14,7 @@
 
 💡 &nbsp; Hello everyone,I'm Vivek Kumar from 2025 batch Btech BME from National Institute of Technology Raipur. Love to make projects, exploring AI and softwares enginnering these days for real world projects. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm learning more about new technologies and getting proficient in AI, Deep Learning, Cloud, Android.\
+🌱 &nbsp;I'm learning more about new technologies and getting proficient in AI, Deep Learning, Android Studio with Java and Kotlin, Cloud Platforms and FullStack Java Development.\
 ✍️ &nbsp;Apart from technical interests, I like playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me. \
 ✉️ &nbsp;You can email me at vkumar.btech2022.bme@nitrr.ac.in. I'll try to respond as soon as possible! 
