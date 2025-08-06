@@ -12,21 +12,20 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm Vivek Kumar from 2025 batch Btech BME from National Institute of Technology Raipur. Love to make projects, exploring AI and softwares enginnering these days for real world projects. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone,I'm Vivek Kumar from 2025 batch Btech BME from National Institute of Technology Raipur. Love to make projects, grinding in AI and softwares enginnering these days for real world projects. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm learning more about new technologies and getting proficient in AI, Deep Learning, Android Studio with Java and Kotlin, Cloud Platforms and FullStack Java Development.\
+🌱 &nbsp;I'm learning more about new technologies and getting proficient in AI, Deep Learning, Python, Android Studio.\
 ✍️ &nbsp;Apart from technical interests, I like playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me. \
-✉️ &nbsp;You can email me at vkumar.btech2022.bme@nitrr.ac.in. I'll try to respond as soon as possible! 
+✉️ &nbsp;You can email me at vivekadvikk@gmail.com. I'll respond as soon as possible! 
 
 -----
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/vivek-kumar-nayak/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/vivekadvikk/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 </a> &nbsp;
-<a href="mailto:vkumar.btech2022.bme@nitrr.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://leetcode.com/Vivekkumar07/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+<a href="mailto:vivekadvikk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
 -----
